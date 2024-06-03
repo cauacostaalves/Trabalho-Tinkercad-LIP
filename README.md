@@ -8,5 +8,6 @@ Feito por Cauã Costa Alves e Otoniel Damasceno Goulart
 2. Link do projeto:
    https://www.tinkercad.com/things/iA71ju4NRf8-smashing-albar-esboo/editel?sharecode=Fj80ZjpEGj1FmY8T42ACLccwewPnoHfBJv0q8eL5Mqk
 3. BRD do projeto:
+   https://github.com/cauacostaalves/Trabalho-Tinkercad-LIP/blob/main/GENIUS%20LIP%20(1).brd
 
 
